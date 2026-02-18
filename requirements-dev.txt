@@ -1,0 +1,10 @@
+# Requirements for development
+-r requirements.txt
+-r requirements-finetune.txt
+-r requirements-eval-all.txt
+
+# Development tools
+pytest>=7.0
+black>=22.0
+flake8>=4.0
+isort>=5.10

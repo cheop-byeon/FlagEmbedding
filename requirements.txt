@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=1.6.0
+transformers>=4.44.2
+datasets>=2.19.0
+accelerate>=0.20.1
+sentence_transformers
+peft
+ir-datasets
+sentencepiece
+protobuf
+numpy
+pandas
+tqdm
+huggingface_hub
+regex
+packaging

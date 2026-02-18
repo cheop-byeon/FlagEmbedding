@@ -1,0 +1,6 @@
+# Requirements for fine-tuning
+-r requirements.txt
+
+# Fine-tuning specific packages
+deepspeed
+flash-attn

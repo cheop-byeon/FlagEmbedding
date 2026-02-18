@@ -1,0 +1,6 @@
+# Requirements for evaluation - Core
+-r requirements.txt
+
+# Core evaluation packages for all benchmarks
+pytrec_eval
+faiss-cpu

@@ -1,0 +1,7 @@
+# Requirements for evaluation - All benchmarks
+-r requirements-eval-core.txt
+
+# All evaluation benchmark packages
+mteb>=1.15.0
+beir
+air-benchmark
